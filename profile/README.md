@@ -53,5 +53,5 @@ Check out our pinned repositories and open issues to get started, or hop in the 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmberCoreGaming&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Empire-of-Shadows&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
