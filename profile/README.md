@@ -21,7 +21,7 @@
 </div>
 <div align="center">
   
-[![Last Commit](https://img.shields.io/github/last-commit/EmpireOfShadows/.github?color=4d0eb3&labelColor=000000)](https://github.com/EmpireOfShadows/.github)
+[![Last Commit](https://img.shields.io/github/last-commit/EmpireOfShadows/.github?color=4d0eb3&labelColor=000000)](https://github.com/Empire-of-Shadows/ImperialCodex)
 [![License](https://img.shields.io/github/license/EmpireOfShadows/.github?color=4d0eb3&labelColor=000000)](LICENSE)
 
 </div>
