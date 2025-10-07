@@ -14,38 +14,32 @@
 
 <div align="center">
 
-[![Join Discord](https://img.shields.io/badge/🎮-Join%20Discord-4d0eb3?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.gg/Vfd2rykvMp)
+<!-- Discord Banner as Hero Element -->
+[![Discord](https://discord.com/api/guilds/1265120128295632926/widget.png?style=banner2)](https://discord.gg/Vfd2rykvMp)
+
+<br>
+
+<!-- Action Buttons Below -->
 [![Explore Wiki](https://img.shields.io/badge/📚-Empire%20Wiki-4d0eb3?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=333333)](https://empireofshadows.club/wiki)
 [![GitHub Stars](https://img.shields.io/badge/⭐-Star%20Us-4d0eb3?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/EmpireOfShadows)
-
-</div>
-<div align="center">
-  
-[![Last Commit](https://img.shields.io/github/last-commit/EmpireOfShadows/.github?color=4d0eb3&labelColor=000000)](https://github.com/Empire-of-Shadows/ImperialCodex)
-[![License](https://img.shields.io/github/license/EmpireOfShadows/.github?color=4d0eb3&labelColor=000000)](LICENSE)
+[![Join Discord](https://img.shields.io/badge/🎮-Direct%20Join-4d0eb3?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/Vfd2rykvMp)
 
 </div>
 
 ---
 
-## <span style="color:#4d0eb3">🏆 Quick Highlights</span>
+<h1 align="center">
+  <span style="color:#4d0eb3"><strong>🏆 Quick Highlights</strong></span>
+  &nbsp;⚡&nbsp;
+  <span style="color:#4d0eb3"><strong>Meet the Bots 🤖 </strong></span>
+</h1>
 
-| Feature | What it Means |
-|---------|---------------|
-| 🫂 **Community & Connection** | Chill channels, active chat & voice, engagement systems, leveling + Pokétwo fun. |
+| Feature | What it Means | Bot | Known as | Purpose |
+|---------|---------------|------------------------|-------|---------------------------|
+| 🫂 **Community & Connection** | Chill channels, active chat & voice, engagement systems, leveling + Pokétwo fun. | ℹ️ **Imperial Codex** | Codex | Information and Engagement |
 | 🎉 **Fun & Entertainment** | Daily games, minigames (Hangman, Tic Tac Toe, UNO), music bots, and game alerts. |
 | 🛠️ **Innovation & Customization** | Suggestion system, temp voice channels, economy & store, transparent updates. |
 | 🏰 **Identity & Vibe** | Chaotic-fun, flexible, playful, casual gamers welcome. |
-
----
-
-## <span style="color:#4d0eb3">🤖 Meet the Bots</span>
-
-| Bot | Known as | Purpose |
-|------------------------|-------|---------------------------|
-| ℹ️ **Imperial Codex** | Codex | Information and Engagement |
-
-> *Built by and for the community!*
 
 ---
 
@@ -73,14 +67,6 @@ Empire of Shadows is not just a community — it's a playground for creativity a
 - **Projects:** [PLACEHOLDER: List key open-source projects]  
 
 > We encourage contributors of all skill levels. Your ideas, feedback, or code can shape the Empire.
-
----
-
-## <span style="color:#4d0eb3">📈 GitHub Stats</span>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmpireOfShadows&layout=compact&title_color=4d0eb3&text_color=darkgray&bg_color=000000&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmpireOfShadows&theme=dark&background=000000&ring=4d0eb3&fire=4d0eb3&currStreakLabel=4d0eb3" alt="GitHub Streak" />
-</p>
 
 ---
 
