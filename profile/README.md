@@ -1,99 +1,100 @@
+<!-- .github/profile/README.md -->
+
 <p align="center">
-  <img src="https://github.com/EmpireOfShadows.png" width="120" style="border-radius:50%" alt="Empire of Shadows Logo"/>
+  <img src="https://github.com/Empire-of-Shadows/.github/blob/main/profile/crowned-skull_512.png" width="120" style="border-radius:50%" alt="Empire of Shadows Logo"/>
 </p>
 
-<h1 align="center">🌑 Empire of Shadows</h1>
+<h1 align="center" style="color:#4d0eb3">🌑 Empire of Shadows</h1>
 
 <p align="center">
-  A chaotic-fun, community-driven gaming hub where creativity, conversation, and innovation meet.  
+  <strong style="color:#4d0eb3">🌟 Come on home, we are waiting. 🌟</strong>  
   <br>
-  <a href="https://discord.gg/Vfd2rykvMp"><b>Join our Discord</b></a> • 
-  <a href="https://empireofshadows.club/wiki/home"><b>Explore the Wiki</b></a>
+  <span style="color:darkgray">A chaotic-fun, community-driven gaming hub — where creativity, conversation, and chaos collide.</span>
+</p>
+
+<div align="center">
+
+[![Join Discord](https://img.shields.io/badge/🎮-Join%20Discord-4d0eb3?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.gg/Vfd2rykvMp)
+[![Explore Wiki](https://img.shields.io/badge/📚-Empire%20Wiki-4d0eb3?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=333333)](https://empireofshadows.club/wiki)
+[![GitHub Stars](https://img.shields.io/badge/⭐-Star%20Us-4d0eb3?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/EmpireOfShadows)
+
+</div>
+<div align="center">
+  
+[![Last Commit](https://img.shields.io/github/last-commit/EmpireOfShadows/.github?color=4d0eb3&labelColor=000000)](https://github.com/EmpireOfShadows/.github)
+[![License](https://img.shields.io/github/license/EmpireOfShadows/.github?color=4d0eb3&labelColor=000000)](LICENSE)
+
+</div>
+
+---
+
+## <span style="color:#4d0eb3">🏆 Quick Highlights</span>
+
+| Feature | What it Means |
+|---------|---------------|
+| 🫂 **Community & Connection** | Chill channels, active chat & voice, engagement systems, leveling + Pokétwo fun. |
+| 🎉 **Fun & Entertainment** | Daily games, minigames (Hangman, Tic Tac Toe, UNO), music bots, and game alerts. |
+| 🛠️ **Innovation & Customization** | Suggestion system, temp voice channels, economy & store, transparent updates. |
+| 🏰 **Identity & Vibe** | Chaotic-fun, flexible, playful, casual gamers welcome. |
+
+---
+
+## <span style="color:#4d0eb3">🤖 Meet the Bots</span>
+
+| Bot | Known as | Purpose |
+|------------------------|-------|---------------------------|
+| ℹ️ **Imperial Codex** | Codex | Information and Engagement |
+
+> *Built by and for the community!*
+
+---
+
+## <span style="color:#4d0eb3">🌟 Community Spotlight</span>
+
+> [PLACEHOLDER: Featured members, events, or fun highlights]  
+> *Example: Weekly champions, top contributors, or cool screenshots*
+
+---
+
+## <span style="color:#4d0eb3">📊 Discord Stats</span>
+
+[![Discord](https://discord.com/api/guilds/1265120128295632926/widget.png?style=banner2)](https://discord.gg/Vfd2rykvMp)
+
+> [PLACEHOLDER: Add dynamic stats using your actual server widget ID]
+---
+## <span style="color:#4d0eb3">🛠️ For Developers</span>
+
+Empire of Shadows is not just a community — it's a playground for creativity and coding.  
+
+- **Languages:** [PLACEHOLDER: Python, Kotlin, JavaScript, etc.]  
+- **Frameworks:** [PLACEHOLDER: discord.py, PaperMC, etc.]  
+- **Database:** [PLACEHOLDER: MongoDB Atlas, PostgreSQL, etc.]  
+- **Infrastructure:** [PLACEHOLDER: Docker, GitHub Actions, etc.]  
+- **Projects:** [PLACEHOLDER: List key open-source projects]  
+
+> We encourage contributors of all skill levels. Your ideas, feedback, or code can shape the Empire.
+
+---
+
+## <span style="color:#4d0eb3">📈 GitHub Stats</span>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmpireOfShadows&layout=compact&title_color=4d0eb3&text_color=darkgray&bg_color=000000&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmpireOfShadows&theme=dark&background=000000&ring=4d0eb3&fire=4d0eb3&currStreakLabel=4d0eb3" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🫂 Community & Connection
+## <span style="color:#4d0eb3">🎯 Get Involved</span>
 
-**Empire of Shadows** is built around people — not just players.  
-It’s a laid-back, social space for gamers who want to hang out, talk, and build something cool together.
-
-- 🌙 Chill, **community-first** environment  
-- 💬 Active text & voice channels for gaming and casual chat  
-- ⚡ **Engagement systems:** leveling + Pokétwo fun  
-- 📚 **Resources:** our custom wiki with guides and server info  
-  👉 [empireofshadows.club/wiki/home](https://empireofshadows.club/wiki/home)
-
-> “Join while we’re small — help shape the Empire.”
+- 🐛 **Found a bug?** [Open an issue](https://github.com/EmpireOfShadows/.github/issues)
+- 💡 **Have an idea?** [Share it with us](https://discord.gg/Vfd2rykvMp)
+- 🔧 **Want to contribute?** Check our [CONTRIBUTING.md](CONTRIBUTING.md)
+- 🌟 **Like our work?** Star our repositories!
 
 ---
 
-## 🎉 Fun & Entertainment
-
-We don’t take ourselves too seriously — but we *do* make sure you’re having fun.
-
-- **🗓️ Daily Activities:**  
-  “Would You Rather” questions with votes, leaderboards, and discussion threads.  
-- **🎮 Minigames:**  
-  🔤 Hangman • ❌⭕ Tic Tac Toe • 🃏 UNO *(in development)*  
-- **🎧 Music:** Bots in every main VC, plus one extra just for chaos.  
-- **🤖 Bots:** Pokétwo integration for collectors and battlers.  
-- **📢 Game Alerts:** Stay up to date with the latest game news.
-
-> Built to keep you engaged, laughing, and maybe a little competitive.
-
----
-
-## 🛠️ Innovation & Customization
-
-Empire of Shadows isn’t “just another Discord” — it’s a testbed for **custom features and systems** made for (and by) the community.
-
-- 💡 **Suggestion System:** Slash commands with anonymous mode, voting, and live thread discussions.  
-- 🎙️ **Temp Voice Channels:** Create, rename, lock, and limit your own VCs instantly.  
-- 💰 **Economy System:** Earn coins by chatting & playing, spend them on colors and perks.  
-- 🏗️ **Store:** Built with community feedback and updated transparently.  
-- 🧱 **Wiki Integration:** Development logs, features, and guides all tracked live.  
-
-> Transparency and creativity drive every feature — if you can imagine it, we’ll probably build it.
-
----
-
-## 🏰 Server Identity & Vibe
-
-**Empire of Shadows** is not about perfection — it’s about personality.
-
-- 😈 **Vibe:** Chaotic-fun, real, and unapologetically playful.  
-- 🎮 **Focus:** Casual gaming, community events, and creativity.  
-- 🧩 **Flexibility:** Open to all games, all playstyles.  
-- 🌱 **Goal:** To grow with our members — not ahead of them.  
-
-> Friendly, but not sugar-coated. Fun, but not fake.
-
----
-
-## 📣 Server Snapshot
-
-- 👥 **~200 members** total  
-- 💬 **<10 active regulars** (for now 😉)  
-- 🎯 **Audience:** Casual gamers looking for a relaxed, connected space  
-
-**Invite Pitch:**  
-> “Join while we’re small and help shape the Empire.”  
-> “A chaotic but fun hangout where casual gamers belong.”
-
----
-
-## 🔗 Quick Links
-
-- 🌀 **Discord:** [https://discord.gg/Vfd2rykvMp](https://discord.gg/Vfd2rykvMp)  
-- 🌐 **Wiki:** [https://empireofshadows.club](https://empireofshadows.club)  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmpireOfShadows&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
+<p align="center" style="color:darkgray">
   <sub>Made with ❤️ by the Empire of Shadows community — chaos included.</sub>
 </p>
+
+---
