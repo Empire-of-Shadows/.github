@@ -37,8 +37,8 @@
 | Feature | What it Means | Bot | Known as | Purpose |
 |---------|---------------|------------------------|-------|---------------------------|
 | 🫂 **Community & Connection** | Chill channels, active chat & voice, engagement systems, leveling + Pokétwo fun. | ℹ️ **Imperial Codex** | Codex | Information and Engagement |
-| 🎉 **Fun & Entertainment** | Daily games, minigames (Hangman, Tic Tac Toe, UNO), music bots, and game alerts. |
-| 🛠️ **Innovation & Customization** | Suggestion system, temp voice channels, economy & store, transparent updates. |
+| 🎉 **Fun & Entertainment** | Daily games, minigames (Hangman, Tic Tac Toe, UNO), music bots, and game alerts. | 👾 **Imperial Host** | Host | Our game bot |
+| 🛠️ **Innovation & Customization** | Suggestion system, temp voice channels, economy & store, transparent updates. | 
 | 🏰 **Identity & Vibe** | Chaotic-fun, flexible, playful, casual gamers welcome. |
 
 ---
