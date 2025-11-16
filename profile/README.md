@@ -60,12 +60,6 @@
 
 Empire of Shadows is not just a community — it's a playground for creativity and coding.  
 
-- **Languages:** [PLACEHOLDER: Python, Kotlin, JavaScript, etc.]  
-- **Frameworks:** [PLACEHOLDER: discord.py, PaperMC, etc.]  
-- **Database:** [PLACEHOLDER: MongoDB Atlas, PostgreSQL, etc.]  
-- **Infrastructure:** [PLACEHOLDER: Docker, GitHub Actions, etc.]  
-- **Projects:** [PLACEHOLDER: List key open-source projects]  
-
 > We encourage contributors of all skill levels. Your ideas, feedback, or code can shape the Empire.
 
 ---
