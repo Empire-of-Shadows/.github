@@ -49,7 +49,7 @@
       </p>
       <p>Our suggestion system actually works. Submit ideas, have the community vote, and see popular concepts get built and integrated into the server. Your voice directly shapes our evolution.</p>
       <br>
-      <em>[Image showing a suggestion turning into a feature]</em>
+      <em><img src="https://github.com/Empire-of-Shadows/.github/blob/main/profile/assets/suggesion" width="300" style="border-radius:50%" alt="Empire of Shadows Logo"/></em>
     </td>
   </tr>
   <tr style="border: none;">
@@ -65,10 +65,13 @@
     <td width="50%" valign="top" align="center" style="border: none; padding: 20px;">
       <h2 style="color:#4d0eb3;">🎁 Automated Game & Loot Alerts</h2>
       <p>
-        <img src="https://img.shields.io/badge/Prime_Gaming-9146FF?style=for-the-badge&logo=twitch" alt="Prime Gaming"/>
-        <img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames" alt="Epic Games"/>
+        <img src="https://img.shields.io/badge/Prime_Gaming-9146FF?style=for-the-badge&logo=twitch" alt="Prime
+  Gaming"/>
+        <img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames" alt="Epic
+  Games"/>
       </p>
-      <p>Never miss a deal. Our bots constantly scan for free games on Steam & Epic and alert you to new in-game loot drops from Prime Gaming the moment they're available.</p>
+      <p>Never miss a deal. PatchBot delivers instant alerts for free games on Epic and Steam, while our custom
+  ImperialCodex bot runs a daily scraper to catch Prime Gaming drops with direct claim links.</p>
       <br>
       <em>[Feed showing alerts for free games]</em>
     </td>
