@@ -60,7 +60,7 @@
       </p>
       <p>Forget paywalls and interruptions. Enjoy two high-quality, self-hosted music bots with a full web dashboard, playlist management, and audio effects, completely free.</p>
       <br>
-      <em>[Screenshot of the Vocard web dashboard]</em>
+      <em><img src="https://github.com/Empire-of-Shadows/.github/blob/main/profile/assets/vocard-dashboard.png" width="400" style="border-radius:50%" alt="Empire of Shadows Logo"/></em>
     </td>
     <td width="50%" valign="top" align="center" style="border: none; padding: 20px;">
       <h2 style="color:#4d0eb3;">🎁 Automated Game & Loot Alerts</h2>
